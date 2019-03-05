@@ -3,7 +3,7 @@
 
 Final project of CS181 in ShanghaiTech. Focus on experiments with different opponent setting policy with basis of DQN method on StarCraft 2.
 
-You can find a overview of this project in our powerpoint(https://github.com/BlackParure/AI-StarCraft-II/blob/master/Project%20Presentation_new.pptx)
+You can find a overview of this project in our powerpoint.(https://github.com/BlackParure/AI-StarCraft-II/blob/master/Project%20Presentation_new.pptx)
 
 **Teammate:** Keyi-Yuan, Qin-QI, Ruiqi-Liu, Yintao-Xu
 
@@ -20,8 +20,3 @@ General idea of pysc2: [[Portal](https://github.com/deepmind/pysc2)]
 
 Environment in pysc2: [[Portal](https://github.com/deepmind/pysc2/blob/master/docs/environment.md)]
 
-### **Update Log**
-
-2018/11/15: backbone of this project. Realize detection the center of build(currently command center) by `lib/building/get_building_center(<obs>, <uid>)`. Realize basic agent in agent_Alpha.
-
-2018/12/19: backbone of the self-game RL learning setting
