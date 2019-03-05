@@ -3,7 +3,8 @@
 
 Final project of CS181 in ShanghaiTech. Focus on experiments with different opponent setting policy with basis of DQN method on StarCraft 2.
 
-You can find a overview of this project in our [powerpoint(https://github.com/BlackParure/AI-StarCraft-II/blob/master/Project%20Presentation_new.pptx)]
+You can find a overview of this project in our powerpoint(https://github.com/BlackParure/AI-StarCraft-II/blob/master/Project%20Presentation_new.pptx)
+
 **Teammate:** Keyi-Yuan, Qin-QI, Ruiqi-Liu, Yintao-Xu
 
 For the reason that we do slight modification to the pysc2, i include pysc2 lib in this repository([pysc2](https://github.com/deepmind/pysc2)) under Apache License 2.0. 
